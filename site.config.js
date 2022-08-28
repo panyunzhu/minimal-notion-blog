@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Build websites with Notion',
-  domain: 'jotzilla.vercel.app',
-  author: 'Jotzilla',
+  name: 'PanPan潘奕住',
+  domain: 'PanPan.vercel.app',
+  author: 'PanPan潘奕住',
 
   // open graph metadata (optional)
   description: 'Learn how to build websites with Notion. This website is an example starter site powered by Notion. Built on top of NotionX.',
